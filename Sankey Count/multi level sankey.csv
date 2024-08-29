@@ -1,0 +1,31 @@
+Source,Target,Quantity
+EU,EU Off. Supplies,6583
+EU,EU Furniture,1500
+US,US Off. Supplies,6021
+US,US Furniture,2120
+EU Furniture,Tables,91
+EU Furniture,Furnishings,461
+EU Furniture,Chairs,465
+EU Furniture,Bookcases,483
+EU Off. Supplies,Supplies,443
+EU Off. Supplies,Storage,1309
+EU Off. Supplies,Paper,443
+EU Off. Supplies,Labels,454
+EU Off. Supplies,Fasteners,433
+EU Off. Supplies,Envelopes,441
+EU Off. Supplies,Binders,1315
+EU Off. Supplies,Art,1433
+EU Off. Supplies,Appliances,312
+US Furniture,Tables,319
+US Furniture,Furnishings,957
+US Furniture,Chairs,617
+US Furniture,Bookcases,227
+US Off. Supplies,Supplies,190
+US Off. Supplies,Storage,846
+US Off. Supplies,Paper,1370
+US Off. Supplies,Labels,364
+US Off. Supplies,Fasteners,216
+US Off. Supplies,Envelopes,254
+US Off. Supplies,Binders,1520
+US Off. Supplies,Art,796
+US Off. Supplies,Appliances,465
